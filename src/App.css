@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #8ec5fc;
+  background-image: linear-gradient(294deg, #8ec5fc 0%, #e0c3fc 100%);
+}
+.central {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+input {
+  width: 55vh;
+  height: 6vh;
+  border-radius: 50px;
+}
+button {
+  width: 9vh;
+  height: 9vh;
+  border-radius: 100vh;
+}
+img {
+  width: 5vh;
+  height: 5vh;
+}
